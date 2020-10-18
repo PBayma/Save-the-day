@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1002364833163",
+    "firebase_url": "https://save-the-day-e41eb.firebaseio.com",
+    "project_id": "save-the-day-e41eb",
+    "storage_bucket": "save-the-day-e41eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002364833163:android:3f80f412fdf4ace59ef38e",
+        "android_client_info": {
+          "package_name": "com.example.save_the_day"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002364833163-9vgkcho6hsagpu8nqug10qlutnega2ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv7BbWydK0Luo1WfNTMGdudbpO65inmrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002364833163-9vgkcho6hsagpu8nqug10qlutnega2ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
